@@ -1,0 +1,2329 @@
+2021-06-30 17:39:47,691:INFO:Initializing load_model()
+2021-06-30 17:39:47,692:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:39:47,775:INFO:Initializing predict_model()
+2021-06-30 17:39:47,776:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:39:47,777:INFO:Checking exceptions
+2021-06-30 17:39:47,777:INFO:Preloading libraries
+2021-06-30 17:39:52,926:INFO:Initializing load_model()
+2021-06-30 17:39:52,927:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:39:53,012:INFO:Initializing predict_model()
+2021-06-30 17:39:53,012:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:39:53,013:INFO:Checking exceptions
+2021-06-30 17:39:53,020:INFO:Preloading libraries
+2021-06-30 17:41:02,726:INFO:Initializing load_model()
+2021-06-30 17:41:02,726:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:41:04,488:INFO:Initializing load_model()
+2021-06-30 17:41:04,488:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:41:04,569:INFO:Initializing predict_model()
+2021-06-30 17:41:04,570:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:41:04,571:INFO:Checking exceptions
+2021-06-30 17:41:04,571:INFO:Preloading libraries
+2021-06-30 17:47:45,967:INFO:Initializing load_model()
+2021-06-30 17:47:45,967:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:47:48,140:INFO:Initializing load_model()
+2021-06-30 17:47:48,142:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:47:48,220:INFO:Initializing predict_model()
+2021-06-30 17:47:48,220:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:47:48,221:INFO:Checking exceptions
+2021-06-30 17:47:48,222:INFO:Preloading libraries
+2021-06-30 17:53:34,479:INFO:Initializing load_model()
+2021-06-30 17:53:34,480:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:53:36,252:INFO:Initializing load_model()
+2021-06-30 17:53:36,252:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:53:36,335:INFO:Initializing predict_model()
+2021-06-30 17:53:36,336:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:53:36,337:INFO:Checking exceptions
+2021-06-30 17:53:36,342:INFO:Preloading libraries
+2021-06-30 17:54:49,307:INFO:Initializing load_model()
+2021-06-30 17:54:49,308:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:54:52,544:INFO:Initializing load_model()
+2021-06-30 17:54:52,545:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:54:52,640:INFO:Initializing predict_model()
+2021-06-30 17:54:52,641:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:54:52,642:INFO:Checking exceptions
+2021-06-30 17:54:52,642:INFO:Preloading libraries
+2021-06-30 17:55:29,287:INFO:Initializing load_model()
+2021-06-30 17:55:29,288:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:55:31,480:INFO:Initializing load_model()
+2021-06-30 17:55:31,480:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:55:31,561:INFO:Initializing predict_model()
+2021-06-30 17:55:31,562:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:55:31,563:INFO:Checking exceptions
+2021-06-30 17:55:31,563:INFO:Preloading libraries
+2021-06-30 17:55:59,395:INFO:Initializing load_model()
+2021-06-30 17:55:59,395:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:56:07,265:INFO:Initializing load_model()
+2021-06-30 17:56:07,266:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:56:07,354:INFO:Initializing predict_model()
+2021-06-30 17:56:07,355:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:56:07,356:INFO:Checking exceptions
+2021-06-30 17:56:07,356:INFO:Preloading libraries
+2021-06-30 17:56:09,350:INFO:Initializing load_model()
+2021-06-30 17:56:09,351:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:56:11,067:INFO:Initializing load_model()
+2021-06-30 17:56:11,068:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:56:11,154:INFO:Initializing predict_model()
+2021-06-30 17:56:11,155:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:56:11,156:INFO:Checking exceptions
+2021-06-30 17:56:11,156:INFO:Preloading libraries
+2021-06-30 17:57:09,252:INFO:Initializing load_model()
+2021-06-30 17:57:09,253:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:11,891:INFO:Initializing load_model()
+2021-06-30 17:57:11,892:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:11,980:INFO:Initializing predict_model()
+2021-06-30 17:57:11,981:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:11,982:INFO:Checking exceptions
+2021-06-30 17:57:11,982:INFO:Preloading libraries
+2021-06-30 17:57:16,744:INFO:Initializing load_model()
+2021-06-30 17:57:16,745:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:18,125:INFO:Initializing load_model()
+2021-06-30 17:57:18,125:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:18,206:INFO:Initializing predict_model()
+2021-06-30 17:57:18,206:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:18,208:INFO:Checking exceptions
+2021-06-30 17:57:18,208:INFO:Preloading libraries
+2021-06-30 17:57:20,836:INFO:Initializing load_model()
+2021-06-30 17:57:20,837:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:21,638:INFO:Initializing load_model()
+2021-06-30 17:57:21,639:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:22,737:INFO:Initializing load_model()
+2021-06-30 17:57:22,737:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:22,820:INFO:Initializing predict_model()
+2021-06-30 17:57:22,821:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:22,822:INFO:Checking exceptions
+2021-06-30 17:57:22,822:INFO:Preloading libraries
+2021-06-30 17:57:24,846:INFO:Initializing load_model()
+2021-06-30 17:57:24,848:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:26,073:INFO:Initializing load_model()
+2021-06-30 17:57:26,074:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:26,151:INFO:Initializing predict_model()
+2021-06-30 17:57:26,151:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:26,153:INFO:Checking exceptions
+2021-06-30 17:57:26,153:INFO:Preloading libraries
+2021-06-30 17:57:29,381:INFO:Initializing load_model()
+2021-06-30 17:57:29,381:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:30,712:INFO:Initializing load_model()
+2021-06-30 17:57:30,712:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:30,792:INFO:Initializing predict_model()
+2021-06-30 17:57:30,792:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:30,793:INFO:Checking exceptions
+2021-06-30 17:57:30,794:INFO:Preloading libraries
+2021-06-30 17:57:34,712:INFO:Initializing load_model()
+2021-06-30 17:57:34,712:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:36,725:INFO:Initializing load_model()
+2021-06-30 17:57:36,726:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:36,805:INFO:Initializing predict_model()
+2021-06-30 17:57:36,806:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:36,807:INFO:Checking exceptions
+2021-06-30 17:57:36,808:INFO:Preloading libraries
+2021-06-30 17:57:43,014:INFO:Initializing load_model()
+2021-06-30 17:57:43,015:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:44,347:INFO:Initializing load_model()
+2021-06-30 17:57:44,348:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:44,429:INFO:Initializing predict_model()
+2021-06-30 17:57:44,429:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:44,431:INFO:Checking exceptions
+2021-06-30 17:57:44,431:INFO:Preloading libraries
+2021-06-30 17:57:47,848:INFO:Initializing load_model()
+2021-06-30 17:57:47,849:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:49,795:INFO:Initializing load_model()
+2021-06-30 17:57:49,796:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:50,875:INFO:Initializing load_model()
+2021-06-30 17:57:50,875:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:57:50,956:INFO:Initializing predict_model()
+2021-06-30 17:57:50,956:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:57:50,957:INFO:Checking exceptions
+2021-06-30 17:57:50,958:INFO:Preloading libraries
+2021-06-30 17:57:58,774:INFO:Initializing load_model()
+2021-06-30 17:57:58,775:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:00,232:INFO:Initializing load_model()
+2021-06-30 17:58:00,233:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:00,316:INFO:Initializing predict_model()
+2021-06-30 17:58:00,317:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:58:00,318:INFO:Checking exceptions
+2021-06-30 17:58:00,318:INFO:Preloading libraries
+2021-06-30 17:58:03,228:INFO:Initializing load_model()
+2021-06-30 17:58:03,229:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:04,440:INFO:Initializing load_model()
+2021-06-30 17:58:04,440:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:04,519:INFO:Initializing predict_model()
+2021-06-30 17:58:04,519:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:58:04,521:INFO:Checking exceptions
+2021-06-30 17:58:04,521:INFO:Preloading libraries
+2021-06-30 17:58:09,408:INFO:Initializing load_model()
+2021-06-30 17:58:09,408:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:09,995:INFO:Initializing load_model()
+2021-06-30 17:58:09,995:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:11,955:INFO:Initializing load_model()
+2021-06-30 17:58:11,955:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:12,035:INFO:Initializing predict_model()
+2021-06-30 17:58:12,035:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:58:12,036:INFO:Checking exceptions
+2021-06-30 17:58:12,037:INFO:Preloading libraries
+2021-06-30 17:58:15,539:INFO:Initializing load_model()
+2021-06-30 17:58:15,539:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:17,157:INFO:Initializing load_model()
+2021-06-30 17:58:17,158:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:18,380:INFO:Initializing load_model()
+2021-06-30 17:58:18,381:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:19,667:INFO:Initializing load_model()
+2021-06-30 17:58:19,669:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:20,282:INFO:Initializing load_model()
+2021-06-30 17:58:20,283:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:21,918:INFO:Initializing load_model()
+2021-06-30 17:58:21,919:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:21,997:INFO:Initializing predict_model()
+2021-06-30 17:58:21,997:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:58:21,998:INFO:Checking exceptions
+2021-06-30 17:58:21,999:INFO:Preloading libraries
+2021-06-30 17:58:24,499:INFO:Initializing load_model()
+2021-06-30 17:58:24,500:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:25,934:INFO:Initializing load_model()
+2021-06-30 17:58:25,934:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:26,013:INFO:Initializing predict_model()
+2021-06-30 17:58:26,014:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:58:26,015:INFO:Checking exceptions
+2021-06-30 17:58:26,015:INFO:Preloading libraries
+2021-06-30 17:58:44,518:INFO:Initializing load_model()
+2021-06-30 17:58:44,519:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:46,782:INFO:Initializing load_model()
+2021-06-30 17:58:46,784:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:46,864:INFO:Initializing predict_model()
+2021-06-30 17:58:46,864:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:58:46,865:INFO:Checking exceptions
+2021-06-30 17:58:46,866:INFO:Preloading libraries
+2021-06-30 17:58:49,297:INFO:Initializing load_model()
+2021-06-30 17:58:49,297:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:51,195:INFO:Initializing load_model()
+2021-06-30 17:58:51,195:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:58:51,275:INFO:Initializing predict_model()
+2021-06-30 17:58:51,276:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:58:51,277:INFO:Checking exceptions
+2021-06-30 17:58:51,278:INFO:Preloading libraries
+2021-06-30 17:59:01,669:INFO:Initializing load_model()
+2021-06-30 17:59:01,669:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:04,121:INFO:Initializing load_model()
+2021-06-30 17:59:04,122:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:04,209:INFO:Initializing predict_model()
+2021-06-30 17:59:04,209:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:59:04,211:INFO:Checking exceptions
+2021-06-30 17:59:04,211:INFO:Preloading libraries
+2021-06-30 17:59:17,275:INFO:Initializing load_model()
+2021-06-30 17:59:17,276:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:21,636:INFO:Initializing load_model()
+2021-06-30 17:59:21,636:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:28,067:INFO:Initializing load_model()
+2021-06-30 17:59:28,067:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:31,211:INFO:Initializing load_model()
+2021-06-30 17:59:31,211:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:32,400:INFO:Initializing load_model()
+2021-06-30 17:59:32,401:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:34,047:INFO:Initializing load_model()
+2021-06-30 17:59:34,048:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:34,125:INFO:Initializing predict_model()
+2021-06-30 17:59:34,126:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 17:59:34,127:INFO:Checking exceptions
+2021-06-30 17:59:34,127:INFO:Preloading libraries
+2021-06-30 17:59:50,338:INFO:Initializing load_model()
+2021-06-30 17:59:50,339:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:53,603:INFO:Initializing load_model()
+2021-06-30 17:59:53,604:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:55,697:INFO:Initializing load_model()
+2021-06-30 17:59:55,698:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 17:59:59,830:INFO:Initializing load_model()
+2021-06-30 17:59:59,831:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:00:03,482:INFO:Initializing load_model()
+2021-06-30 18:00:03,490:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:00:11,461:INFO:Initializing load_model()
+2021-06-30 18:00:11,462:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:00:11,548:INFO:Initializing predict_model()
+2021-06-30 18:00:11,549:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:00:11,550:INFO:Checking exceptions
+2021-06-30 18:00:11,551:INFO:Preloading libraries
+2021-06-30 18:00:24,126:INFO:Initializing load_model()
+2021-06-30 18:00:24,126:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:00:25,655:INFO:Initializing load_model()
+2021-06-30 18:00:25,656:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:00:25,737:INFO:Initializing predict_model()
+2021-06-30 18:00:25,737:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:00:25,738:INFO:Checking exceptions
+2021-06-30 18:00:25,739:INFO:Preloading libraries
+2021-06-30 18:00:29,597:INFO:Initializing load_model()
+2021-06-30 18:00:29,597:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:00:30,861:INFO:Initializing load_model()
+2021-06-30 18:00:30,861:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:00:30,939:INFO:Initializing predict_model()
+2021-06-30 18:00:30,940:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:00:30,941:INFO:Checking exceptions
+2021-06-30 18:00:30,942:INFO:Preloading libraries
+2021-06-30 18:05:10,403:INFO:Initializing load_model()
+2021-06-30 18:05:10,404:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:11,788:INFO:Initializing load_model()
+2021-06-30 18:05:11,788:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:11,870:INFO:Initializing predict_model()
+2021-06-30 18:05:11,871:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:05:11,872:INFO:Checking exceptions
+2021-06-30 18:05:11,872:INFO:Preloading libraries
+2021-06-30 18:05:21,206:INFO:Initializing load_model()
+2021-06-30 18:05:21,206:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:22,594:INFO:Initializing load_model()
+2021-06-30 18:05:22,594:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:22,690:INFO:Initializing predict_model()
+2021-06-30 18:05:22,691:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:05:22,692:INFO:Checking exceptions
+2021-06-30 18:05:22,692:INFO:Preloading libraries
+2021-06-30 18:05:35,946:INFO:Initializing load_model()
+2021-06-30 18:05:35,946:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:37,420:INFO:Initializing load_model()
+2021-06-30 18:05:37,420:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:37,500:INFO:Initializing predict_model()
+2021-06-30 18:05:37,500:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:05:37,501:INFO:Checking exceptions
+2021-06-30 18:05:37,503:INFO:Preloading libraries
+2021-06-30 18:05:46,371:INFO:Initializing load_model()
+2021-06-30 18:05:46,371:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:47,655:INFO:Initializing load_model()
+2021-06-30 18:05:47,656:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:49,225:INFO:Initializing load_model()
+2021-06-30 18:05:49,226:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:50,617:INFO:Initializing load_model()
+2021-06-30 18:05:50,618:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:05:50,698:INFO:Initializing predict_model()
+2021-06-30 18:05:50,698:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:05:50,700:INFO:Checking exceptions
+2021-06-30 18:05:50,700:INFO:Preloading libraries
+2021-06-30 18:06:00,098:INFO:Initializing load_model()
+2021-06-30 18:06:00,099:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:01,650:INFO:Initializing load_model()
+2021-06-30 18:06:01,651:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:03,382:INFO:Initializing load_model()
+2021-06-30 18:06:03,383:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:04,842:INFO:Initializing load_model()
+2021-06-30 18:06:04,842:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:04,922:INFO:Initializing predict_model()
+2021-06-30 18:06:04,922:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:06:04,924:INFO:Checking exceptions
+2021-06-30 18:06:04,924:INFO:Preloading libraries
+2021-06-30 18:06:09,508:INFO:Initializing load_model()
+2021-06-30 18:06:09,508:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:11,523:INFO:Initializing load_model()
+2021-06-30 18:06:11,524:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:11,609:INFO:Initializing predict_model()
+2021-06-30 18:06:11,609:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:06:11,611:INFO:Checking exceptions
+2021-06-30 18:06:11,613:INFO:Preloading libraries
+2021-06-30 18:06:15,752:INFO:Initializing load_model()
+2021-06-30 18:06:15,752:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:16,778:INFO:Initializing load_model()
+2021-06-30 18:06:16,779:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:16,856:INFO:Initializing predict_model()
+2021-06-30 18:06:16,857:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:06:16,858:INFO:Checking exceptions
+2021-06-30 18:06:16,858:INFO:Preloading libraries
+2021-06-30 18:06:25,049:INFO:Initializing load_model()
+2021-06-30 18:06:25,049:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:26,229:INFO:Initializing load_model()
+2021-06-30 18:06:26,229:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:26,821:INFO:Initializing load_model()
+2021-06-30 18:06:26,821:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:28,353:INFO:Initializing load_model()
+2021-06-30 18:06:28,353:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:28,432:INFO:Initializing predict_model()
+2021-06-30 18:06:28,433:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:06:28,434:INFO:Checking exceptions
+2021-06-30 18:06:28,434:INFO:Preloading libraries
+2021-06-30 18:06:32,658:INFO:Initializing load_model()
+2021-06-30 18:06:32,659:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:06:58,942:INFO:Initializing load_model()
+2021-06-30 18:06:58,942:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:00,019:INFO:Initializing load_model()
+2021-06-30 18:07:00,019:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:00,105:INFO:Initializing predict_model()
+2021-06-30 18:07:00,105:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:07:00,106:INFO:Checking exceptions
+2021-06-30 18:07:00,107:INFO:Preloading libraries
+2021-06-30 18:07:02,922:INFO:Initializing load_model()
+2021-06-30 18:07:02,922:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:04,322:INFO:Initializing load_model()
+2021-06-30 18:07:04,323:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:04,399:INFO:Initializing predict_model()
+2021-06-30 18:07:04,399:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:07:04,401:INFO:Checking exceptions
+2021-06-30 18:07:04,401:INFO:Preloading libraries
+2021-06-30 18:07:08,471:INFO:Initializing load_model()
+2021-06-30 18:07:08,472:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:09,585:INFO:Initializing load_model()
+2021-06-30 18:07:09,586:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:09,665:INFO:Initializing predict_model()
+2021-06-30 18:07:09,666:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:07:09,667:INFO:Checking exceptions
+2021-06-30 18:07:09,667:INFO:Preloading libraries
+2021-06-30 18:07:15,191:INFO:Initializing load_model()
+2021-06-30 18:07:15,191:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:16,124:INFO:Initializing load_model()
+2021-06-30 18:07:16,125:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:16,205:INFO:Initializing predict_model()
+2021-06-30 18:07:16,206:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:07:16,207:INFO:Checking exceptions
+2021-06-30 18:07:16,208:INFO:Preloading libraries
+2021-06-30 18:07:19,395:INFO:Initializing load_model()
+2021-06-30 18:07:19,395:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:20,254:INFO:Initializing load_model()
+2021-06-30 18:07:20,254:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:20,334:INFO:Initializing predict_model()
+2021-06-30 18:07:20,334:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:07:20,335:INFO:Checking exceptions
+2021-06-30 18:07:20,336:INFO:Preloading libraries
+2021-06-30 18:07:24,989:INFO:Initializing load_model()
+2021-06-30 18:07:24,989:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:25,892:INFO:Initializing load_model()
+2021-06-30 18:07:25,892:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:26,706:INFO:Initializing load_model()
+2021-06-30 18:07:26,706:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:27,522:INFO:Initializing load_model()
+2021-06-30 18:07:27,523:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:29,208:INFO:Initializing load_model()
+2021-06-30 18:07:29,208:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:07:29,289:INFO:Initializing predict_model()
+2021-06-30 18:07:29,290:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:07:29,291:INFO:Checking exceptions
+2021-06-30 18:07:29,291:INFO:Preloading libraries
+2021-06-30 18:10:11,491:INFO:Initializing load_model()
+2021-06-30 18:10:11,492:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:11,573:INFO:Initializing predict_model()
+2021-06-30 18:10:11,574:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:10:11,575:INFO:Checking exceptions
+2021-06-30 18:10:11,577:INFO:Preloading libraries
+2021-06-30 18:10:16,007:INFO:Initializing load_model()
+2021-06-30 18:10:16,008:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:20,570:INFO:Initializing load_model()
+2021-06-30 18:10:20,570:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:20,656:INFO:Initializing predict_model()
+2021-06-30 18:10:20,657:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:10:20,658:INFO:Checking exceptions
+2021-06-30 18:10:20,661:INFO:Preloading libraries
+2021-06-30 18:10:25,921:INFO:Initializing load_model()
+2021-06-30 18:10:25,922:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:27,892:INFO:Initializing load_model()
+2021-06-30 18:10:27,892:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:27,973:INFO:Initializing predict_model()
+2021-06-30 18:10:27,974:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:10:27,975:INFO:Checking exceptions
+2021-06-30 18:10:27,977:INFO:Preloading libraries
+2021-06-30 18:10:34,156:INFO:Initializing load_model()
+2021-06-30 18:10:34,156:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:35,786:INFO:Initializing load_model()
+2021-06-30 18:10:35,786:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:35,867:INFO:Initializing predict_model()
+2021-06-30 18:10:35,868:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:10:35,869:INFO:Checking exceptions
+2021-06-30 18:10:35,869:INFO:Preloading libraries
+2021-06-30 18:10:39,182:INFO:Initializing load_model()
+2021-06-30 18:10:39,183:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:40,416:INFO:Initializing load_model()
+2021-06-30 18:10:40,417:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:41,887:INFO:Initializing load_model()
+2021-06-30 18:10:41,888:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:42,802:INFO:Initializing load_model()
+2021-06-30 18:10:42,802:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:42,880:INFO:Initializing predict_model()
+2021-06-30 18:10:42,881:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:10:42,882:INFO:Checking exceptions
+2021-06-30 18:10:42,882:INFO:Preloading libraries
+2021-06-30 18:10:45,839:INFO:Initializing load_model()
+2021-06-30 18:10:45,840:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:47,520:INFO:Initializing load_model()
+2021-06-30 18:10:47,520:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:47,609:INFO:Initializing predict_model()
+2021-06-30 18:10:47,609:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:10:47,611:INFO:Checking exceptions
+2021-06-30 18:10:47,611:INFO:Preloading libraries
+2021-06-30 18:10:50,172:INFO:Initializing load_model()
+2021-06-30 18:10:50,173:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:52,517:INFO:Initializing load_model()
+2021-06-30 18:10:52,518:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:53,389:INFO:Initializing load_model()
+2021-06-30 18:10:53,390:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:54,266:INFO:Initializing load_model()
+2021-06-30 18:10:54,267:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:10:54,346:INFO:Initializing predict_model()
+2021-06-30 18:10:54,347:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:10:54,348:INFO:Checking exceptions
+2021-06-30 18:10:54,348:INFO:Preloading libraries
+2021-06-30 18:12:11,022:INFO:Initializing load_model()
+2021-06-30 18:12:11,023:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:11,491:INFO:Initializing load_model()
+2021-06-30 18:12:11,491:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:11,569:INFO:Initializing predict_model()
+2021-06-30 18:12:11,570:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:12:11,571:INFO:Checking exceptions
+2021-06-30 18:12:11,572:INFO:Preloading libraries
+2021-06-30 18:12:35,718:INFO:Initializing load_model()
+2021-06-30 18:12:35,719:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:35,805:INFO:Initializing predict_model()
+2021-06-30 18:12:35,805:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:12:35,806:INFO:Checking exceptions
+2021-06-30 18:12:35,809:INFO:Preloading libraries
+2021-06-30 18:12:40,792:INFO:Initializing load_model()
+2021-06-30 18:12:40,792:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:41,270:INFO:Initializing load_model()
+2021-06-30 18:12:41,271:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:41,744:INFO:Initializing load_model()
+2021-06-30 18:12:41,745:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:41,822:INFO:Initializing predict_model()
+2021-06-30 18:12:41,823:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:12:41,824:INFO:Checking exceptions
+2021-06-30 18:12:41,825:INFO:Preloading libraries
+2021-06-30 18:12:43,459:INFO:Initializing load_model()
+2021-06-30 18:12:43,459:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:44,710:INFO:Initializing load_model()
+2021-06-30 18:12:44,711:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:44,790:INFO:Initializing predict_model()
+2021-06-30 18:12:44,790:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:12:44,792:INFO:Checking exceptions
+2021-06-30 18:12:44,792:INFO:Preloading libraries
+2021-06-30 18:12:47,059:INFO:Initializing load_model()
+2021-06-30 18:12:47,059:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:48,199:INFO:Initializing load_model()
+2021-06-30 18:12:48,199:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:48,280:INFO:Initializing predict_model()
+2021-06-30 18:12:48,281:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:12:48,282:INFO:Checking exceptions
+2021-06-30 18:12:48,282:INFO:Preloading libraries
+2021-06-30 18:12:51,248:INFO:Initializing load_model()
+2021-06-30 18:12:51,249:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:52,860:INFO:Initializing load_model()
+2021-06-30 18:12:52,860:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:52,948:INFO:Initializing predict_model()
+2021-06-30 18:12:52,948:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:12:52,950:INFO:Checking exceptions
+2021-06-30 18:12:52,950:INFO:Preloading libraries
+2021-06-30 18:12:55,671:INFO:Initializing load_model()
+2021-06-30 18:12:55,672:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:57,009:INFO:Initializing load_model()
+2021-06-30 18:12:57,010:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:12:57,088:INFO:Initializing predict_model()
+2021-06-30 18:12:57,088:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:12:57,090:INFO:Checking exceptions
+2021-06-30 18:12:57,092:INFO:Preloading libraries
+2021-06-30 18:13:02,757:INFO:Initializing load_model()
+2021-06-30 18:13:02,758:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:04,280:INFO:Initializing load_model()
+2021-06-30 18:13:04,280:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:04,371:INFO:Initializing predict_model()
+2021-06-30 18:13:04,371:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:04,372:INFO:Checking exceptions
+2021-06-30 18:13:04,373:INFO:Preloading libraries
+2021-06-30 18:13:16,888:INFO:Initializing load_model()
+2021-06-30 18:13:16,889:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:17,357:INFO:Initializing load_model()
+2021-06-30 18:13:17,358:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:17,822:INFO:Initializing load_model()
+2021-06-30 18:13:17,823:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:19,216:INFO:Initializing load_model()
+2021-06-30 18:13:19,216:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:20,022:INFO:Initializing load_model()
+2021-06-30 18:13:20,022:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:23,989:INFO:Initializing load_model()
+2021-06-30 18:13:23,990:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:24,075:INFO:Initializing predict_model()
+2021-06-30 18:13:24,076:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:24,077:INFO:Checking exceptions
+2021-06-30 18:13:24,077:INFO:Preloading libraries
+2021-06-30 18:13:31,462:INFO:Initializing load_model()
+2021-06-30 18:13:31,463:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:32,669:INFO:Initializing load_model()
+2021-06-30 18:13:32,670:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:32,751:INFO:Initializing predict_model()
+2021-06-30 18:13:32,752:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:32,753:INFO:Checking exceptions
+2021-06-30 18:13:32,753:INFO:Preloading libraries
+2021-06-30 18:13:35,143:INFO:Initializing load_model()
+2021-06-30 18:13:35,143:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:36,124:INFO:Initializing load_model()
+2021-06-30 18:13:36,125:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:36,204:INFO:Initializing predict_model()
+2021-06-30 18:13:36,205:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:36,206:INFO:Checking exceptions
+2021-06-30 18:13:36,206:INFO:Preloading libraries
+2021-06-30 18:13:39,425:INFO:Initializing load_model()
+2021-06-30 18:13:39,425:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:40,244:INFO:Initializing load_model()
+2021-06-30 18:13:40,245:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:40,326:INFO:Initializing predict_model()
+2021-06-30 18:13:40,327:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:40,328:INFO:Checking exceptions
+2021-06-30 18:13:40,328:INFO:Preloading libraries
+2021-06-30 18:13:42,144:INFO:Initializing load_model()
+2021-06-30 18:13:42,146:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:43,358:INFO:Initializing load_model()
+2021-06-30 18:13:43,359:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:43,448:INFO:Initializing predict_model()
+2021-06-30 18:13:43,449:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:43,450:INFO:Checking exceptions
+2021-06-30 18:13:43,450:INFO:Preloading libraries
+2021-06-30 18:13:45,688:INFO:Initializing load_model()
+2021-06-30 18:13:45,689:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:46,546:INFO:Initializing load_model()
+2021-06-30 18:13:46,547:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:46,625:INFO:Initializing predict_model()
+2021-06-30 18:13:46,625:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:46,626:INFO:Checking exceptions
+2021-06-30 18:13:46,627:INFO:Preloading libraries
+2021-06-30 18:13:48,475:INFO:Initializing load_model()
+2021-06-30 18:13:48,476:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:49,302:INFO:Initializing load_model()
+2021-06-30 18:13:49,302:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:49,379:INFO:Initializing predict_model()
+2021-06-30 18:13:49,379:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:49,382:INFO:Checking exceptions
+2021-06-30 18:13:49,382:INFO:Preloading libraries
+2021-06-30 18:13:52,064:INFO:Initializing load_model()
+2021-06-30 18:13:52,064:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:53,497:INFO:Initializing load_model()
+2021-06-30 18:13:53,498:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:53,578:INFO:Initializing predict_model()
+2021-06-30 18:13:53,578:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:53,579:INFO:Checking exceptions
+2021-06-30 18:13:53,580:INFO:Preloading libraries
+2021-06-30 18:13:55,871:INFO:Initializing load_model()
+2021-06-30 18:13:55,872:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:57,033:INFO:Initializing load_model()
+2021-06-30 18:13:57,034:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:13:57,114:INFO:Initializing predict_model()
+2021-06-30 18:13:57,114:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:13:57,115:INFO:Checking exceptions
+2021-06-30 18:13:57,116:INFO:Preloading libraries
+2021-06-30 18:13:59,280:INFO:Initializing load_model()
+2021-06-30 18:13:59,280:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:00,643:INFO:Initializing load_model()
+2021-06-30 18:14:00,643:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:00,723:INFO:Initializing predict_model()
+2021-06-30 18:14:00,724:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:14:00,725:INFO:Checking exceptions
+2021-06-30 18:14:00,725:INFO:Preloading libraries
+2021-06-30 18:14:02,702:INFO:Initializing load_model()
+2021-06-30 18:14:02,702:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:04,351:INFO:Initializing load_model()
+2021-06-30 18:14:04,352:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:05,667:INFO:Initializing load_model()
+2021-06-30 18:14:05,668:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:05,747:INFO:Initializing predict_model()
+2021-06-30 18:14:05,747:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:14:05,748:INFO:Checking exceptions
+2021-06-30 18:14:05,748:INFO:Preloading libraries
+2021-06-30 18:14:08,688:INFO:Initializing load_model()
+2021-06-30 18:14:08,688:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:10,236:INFO:Initializing load_model()
+2021-06-30 18:14:10,237:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:10,315:INFO:Initializing predict_model()
+2021-06-30 18:14:10,315:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:14:10,316:INFO:Checking exceptions
+2021-06-30 18:14:10,317:INFO:Preloading libraries
+2021-06-30 18:14:13,656:INFO:Initializing load_model()
+2021-06-30 18:14:13,657:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:14,159:INFO:Initializing load_model()
+2021-06-30 18:14:14,159:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:15,536:INFO:Initializing load_model()
+2021-06-30 18:14:15,537:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:15,617:INFO:Initializing predict_model()
+2021-06-30 18:14:15,618:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:14:15,619:INFO:Checking exceptions
+2021-06-30 18:14:15,619:INFO:Preloading libraries
+2021-06-30 18:14:20,523:INFO:Initializing load_model()
+2021-06-30 18:14:20,524:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:22,272:INFO:Initializing load_model()
+2021-06-30 18:14:22,273:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:22,353:INFO:Initializing predict_model()
+2021-06-30 18:14:22,354:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:14:22,355:INFO:Checking exceptions
+2021-06-30 18:14:22,355:INFO:Preloading libraries
+2021-06-30 18:14:26,072:INFO:Initializing load_model()
+2021-06-30 18:14:26,072:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:27,196:INFO:Initializing load_model()
+2021-06-30 18:14:27,196:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
+2021-06-30 18:14:27,284:INFO:Initializing predict_model()
+2021-06-30 18:14:27,284:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='pagador')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('fix_multi',
+                 Fix_multicollinearity(correlation_with_target_preference=None,
+                                       target_variable='pagador',
+                                       threshold=0.9)),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(class_weight='balanced', max_depth=9,
+                                        max_features='log2',
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=6, n_estimators=180,
+                                        n_jobs=-1, random_state=5064)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-06-30 18:14:27,285:INFO:Checking exceptions
+2021-06-30 18:14:27,286:INFO:Preloading libraries
+2021-06-30 18:16:21,421:INFO:Initializing load_model()
+2021-06-30 18:16:21,422:INFO:load_model(model_name=modelo-german-credit-data, platform=None, authentication=None, verbose=True)
